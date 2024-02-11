@@ -4,6 +4,7 @@ public class UserCheckedException {
 
 	public static void main(String[] args) throws CustomeCheckedException {
 		// TODO Auto-generated method stub
+		System.out.println("Inside Main");
 		CustomeCheckedException.m1();
 	}
     
