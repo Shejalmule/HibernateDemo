@@ -26,5 +26,8 @@ public class ExceptionDemo {
     	
     }
     
-    
+    static void m4()
+    {
+    	System.out.println("in exception");
+    }
 }
